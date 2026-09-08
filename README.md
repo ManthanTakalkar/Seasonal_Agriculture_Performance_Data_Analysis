@@ -9,6 +9,11 @@
 
 ---
 
+## Dataset
+* You can find the dataset directly in this repository at [`Click here to download the CSV file`](./dataset/seasonal_agriculture_performance_dataset.csv).
+
+---
+
 ## 🚀 Project Overview
 An advanced end-to-end data auditing and Exploratory Data Analysis (EDA) and Data Visualization. This project investigates the microeconomic outcomes, resource efficiencies, and climatic constraints of **3,968 active farm profiles** across 28 multi-dimensional variables.
 
@@ -56,5 +61,5 @@ Designed three independent, complex diagnostic modules to uncover non-linear int
 
 LinkedIn :- 🔗 https://www.linkedin.com/in/manthan-takalkar-62969a213/
 
-## THANKS FOR VISITING THE REPOSITORY☺. IF THERE ARE ANY SUGGESTIONS OR CHANGES TO BE MADE CONTACT US ON THE PLATFORM MENTIONED ABOVE😉
+## THANKS FOR VISITING MY REPOSITORY☺.IF THERE ARE ANY SUGGESTIONS OR CHANGES TO BE MADE CONTACT ME ON THE PLATFORMS MENTIONED ABOVE😉
 
