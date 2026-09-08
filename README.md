@@ -1,9 +1,11 @@
 # 🌾 Seasonal_Agriculture_Performance_Data_Analysis
-[![Python](https://shields.io)](https://www.python.org)
-[![Pandas](https://shields.io)](https://pandas.pydata.org)
-[![Matplotlib](https://shields.io)](https://matplotlib.org)
-[![Seaborn](https://shields.io)](https://seaborn.pydata.org)
-[![Jupyter Notebook](https://shields.io)](https://jupyter.org)
+<p align="left">
+  <a href="https://python.org"><img src="https://shields.io" alt="Python"></a>
+  <a href="https://pydata.org"><img src="https://shields.io" alt="Pandas"></a>
+  <a href="https://matplotlib.org"><img src="https://shields.io" alt="Matplotlib"></a>
+  <a href="https://pydata.org"><img src="https://shields.io" alt="Seaborn"></a>
+  <a href="https://jupyter.org"><img src="https://shields.io" alt="Jupyter"></a>
+</p>
 
 ## Problem Statement 🖋  
 * Agricultural activities are influenced by seasonal variations in environmental conditions, farming practices, resource availability and market conditions. As a result, agricultural performance may differ from one season to another. However, raw agricultural data does not clearly explain how agricultural performance changes across seasons or what patterns can be observed in different seasonal conditions. 
