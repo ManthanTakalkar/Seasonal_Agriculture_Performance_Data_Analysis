@@ -1,12 +1,12 @@
 # 🌾Indian_Seasonal_Agriculture_Performance_Data_Analysis
 
-## Problem Statement 🖋  
+## 🖋 Problem Statement  
 * Agricultural activities are influenced by seasonal variations in environmental conditions, farming practices, resource availability and market conditions. As a result, agricultural performance may differ from one season to another. However, raw agricultural data does not clearly explain how agricultural performance changes across seasons or what patterns can be observed in different seasonal conditions. 
 * The problem is to analyze the given agricultural dataset and investigate seasonal differences in agricultural performance by identifying meaningful patterns, trends, relationships and variations within the available data.
 
 ---
 
-## Dataset
+## 📂 Dataset
 * The dataset represents farm-level agricultural records. It contains information related to different seasons, locations, crops, environmental conditions, farming practices, production, costs, revenue, profit and resource usage. It has 4000 records with few missing values.
 * You can find the dataset directly in this repository at [`Click here to download the CSV file`](./dataset/seasonal_agriculture_performance_dataset.csv).
 
