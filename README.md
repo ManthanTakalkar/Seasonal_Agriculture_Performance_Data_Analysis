@@ -1,9 +1,4 @@
 # 🌾 Seasonal_Agriculture_Performance_Data_Analysis
-[![Python](https://shields.io)](https://python.org)
-[![Pandas](https://shields.io)](https://pydata.org)
-[![Matplotlib](https://shields.io)](https://matplotlib.org)
-[![Seaborn](https://shields.io)](https://pydata.org)
-[![Jupyter Notebook](https://shields.io)](https://jupyter.org)
 
 ## Problem Statement 🖋  
 * Agricultural activities are influenced by seasonal variations in environmental conditions, farming practices, resource availability and market conditions. As a result, agricultural performance may differ from one season to another. However, raw agricultural data does not clearly explain how agricultural performance changes across seasons or what patterns can be observed in different seasonal conditions. 
@@ -50,6 +45,12 @@ Designed three independent, complex diagnostic modules to uncover non-linear int
 *   **Languages & Environment:** Python 3.x, Jupyter Notebook
 *   **Data Architecture:** Pandas, NumPy
 *   **Data Visualization:** Matplotlib, Seaborn
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-2E86AB?style=for-the-badge)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
